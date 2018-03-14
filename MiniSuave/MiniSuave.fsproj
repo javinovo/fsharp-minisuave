@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Http.fs" />
+    <Compile Include="Successful.fs" />
+    <Compile Include="Console.fs" />
+    <Compile Include="Combinators.fs" />
+    <Compile Include="Filters.fs" />
+  </ItemGroup>
+
+</Project>
